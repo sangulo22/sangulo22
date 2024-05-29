@@ -61,7 +61,7 @@
     <script>
         function authenticate() {
             // Redirige al usuario a una URL de autenticación o éxito
-            window.location.href = 'https://example.com/success'; // Cambia esta URL a la página de destino después de la autenticación
+            window.location.href = 'https://extreme.com.co/'; // Cambia esta URL a la página de destino después de la autenticación
         }
     </script>
 </body>
